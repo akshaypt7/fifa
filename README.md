@@ -9,3 +9,9 @@ Part C - Which Club has the Best Staff
 
        - Study player data from Division 1 European League* players from the last 5 Years. Analyze changes in player stats and value. Rank the clubs according to  best increase in statistics of a player
        - Graphically represent the scores for the test set
+       
+       
+       
+Project 29/10/2021
+
+Team: Akshay Ranjith, Krishn Katyal, Mayank Gupta, Prerna Mahajan, Vishal Balaji
