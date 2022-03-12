@@ -5,5 +5,7 @@ Part A - Predict the Overall (OVR ) skill Statistic for players in the FIFA 20 E
 Part B - Train on data from FIFA 19. Predict the player_position variable using other skill statistics for players in the FIFA 20 Edition. Train on all players from FIFA 19
        - Graphically represent the predicted player_position for the players in Test Set 
        
-Part C - Study player data from Division 1 European League* players from the last 5 Years. Analyze changes in player stats and value. Rank the clubs according to best increase in statistics of a player
+Part C - Which Club has the Best Staff
+
+       - Study player data from Division 1 European League* players from the last 5 Years. Analyze changes in player stats and value. Rank the clubs according to  best increase in statistics of a player
        - Graphically represent the scores for the test set
